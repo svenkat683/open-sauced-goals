@@ -1,15 +1,15 @@
 [
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 56410,
-    "open_issues_count": 30,
-    "forks_count": 4600
+    "stargazers_count": 57209,
+    "open_issues_count": 31,
+    "forks_count": 4631
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 17522,
-    "open_issues_count": 22,
-    "forks_count": 976
+    "stargazers_count": 17558,
+    "open_issues_count": 26,
+    "forks_count": 978
   },
   {
     "full_name": "calculist/calculist-web",
@@ -19,153 +19,153 @@
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 28892,
-    "open_issues_count": 469,
-    "forks_count": 2250
+    "stargazers_count": 28936,
+    "open_issues_count": 466,
+    "forks_count": 2254
   },
   {
     "full_name": "GoogleContainerTools/skaffold",
-    "stargazers_count": 12686,
-    "open_issues_count": 550,
-    "forks_count": 1394
+    "stargazers_count": 12696,
+    "open_issues_count": 562,
+    "forks_count": 1400
   },
   {
     "full_name": "ampache/ampache",
-    "stargazers_count": 3024,
+    "stargazers_count": 3027,
     "open_issues_count": 357,
     "forks_count": 551
   },
   {
     "full_name": "rancher/k3d",
-    "stargazers_count": 3427,
-    "open_issues_count": 79,
-    "forks_count": 332
+    "stargazers_count": 3437,
+    "open_issues_count": 82,
+    "forks_count": 333
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 24356,
-    "open_issues_count": 20,
-    "forks_count": 1697
+    "stargazers_count": 24383,
+    "open_issues_count": 18,
+    "forks_count": 1700
   },
   {
     "full_name": "official-stockfish/Stockfish",
-    "stargazers_count": 6009,
-    "open_issues_count": 25,
+    "stargazers_count": 6021,
+    "open_issues_count": 29,
     "forks_count": 1365
   },
   {
     "full_name": "CollabCodeTech/backend-challenges",
-    "stargazers_count": 3453,
+    "stargazers_count": 3466,
     "open_issues_count": 1,
-    "forks_count": 291
+    "forks_count": 293
   },
   {
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 43964,
-    "open_issues_count": 320,
-    "forks_count": 3380
+    "stargazers_count": 44022,
+    "open_issues_count": 313,
+    "forks_count": 3382
   },
   {
     "full_name": "kubernetes/ingress-nginx",
-    "stargazers_count": 12474,
-    "open_issues_count": 324,
-    "forks_count": 6366
+    "stargazers_count": 12481,
+    "open_issues_count": 319,
+    "forks_count": 6383
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 38238,
-    "open_issues_count": 769,
-    "forks_count": 3182
+    "stargazers_count": 38256,
+    "open_issues_count": 770,
+    "forks_count": 3183
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 19658,
-    "open_issues_count": 423,
-    "forks_count": 1737
+    "stargazers_count": 19688,
+    "open_issues_count": 417,
+    "forks_count": 1743
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 831,
-    "open_issues_count": 82,
-    "forks_count": 248
+    "stargazers_count": 845,
+    "open_issues_count": 73,
+    "forks_count": 250
   },
   {
     "full_name": "rbreaves/kinto",
-    "stargazers_count": 2558,
-    "open_issues_count": 157,
-    "forks_count": 136
+    "stargazers_count": 2563,
+    "open_issues_count": 159,
+    "forks_count": 137
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 48292,
+    "stargazers_count": 48375,
     "open_issues_count": 14,
-    "forks_count": 6576
+    "forks_count": 6593
   },
   {
     "full_name": "liquibase/liquibase",
-    "stargazers_count": 3131,
-    "open_issues_count": 639,
-    "forks_count": 1495
+    "stargazers_count": 3136,
+    "open_issues_count": 641,
+    "forks_count": 1497
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 10925,
+    "stargazers_count": 10929,
     "open_issues_count": 6,
     "forks_count": 1653
   },
   {
     "full_name": "Netflix/chaosmonkey",
-    "stargazers_count": 12088,
+    "stargazers_count": 12097,
     "open_issues_count": 14,
-    "forks_count": 904
+    "forks_count": 906
   },
   {
     "full_name": "dastergon/awesome-chaos-engineering",
-    "stargazers_count": 4910,
+    "stargazers_count": 4917,
     "open_issues_count": 4,
     "forks_count": 567
   },
   {
     "full_name": "hiroppy/fusuma",
-    "stargazers_count": 5116,
+    "stargazers_count": 5118,
     "open_issues_count": 69,
     "forks_count": 206
   },
   {
     "full_name": "dapr/dapr",
-    "stargazers_count": 17547,
-    "open_issues_count": 281,
-    "forks_count": 1317
+    "stargazers_count": 17574,
+    "open_issues_count": 286,
+    "forks_count": 1320
   },
   {
     "full_name": "ebhy/budgetml",
-    "stargazers_count": 1261,
+    "stargazers_count": 1263,
     "open_issues_count": 0,
     "forks_count": 55
   },
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 6780,
-    "open_issues_count": 297,
-    "forks_count": 338
+    "stargazers_count": 6852,
+    "open_issues_count": 295,
+    "forks_count": 343
   },
   {
     "full_name": "kubernetes/kops",
-    "stargazers_count": 13881,
+    "stargazers_count": 13893,
     "open_issues_count": 179,
-    "forks_count": 4286
+    "forks_count": 4288
   },
   {
     "full_name": "fpereiro/backendlore",
-    "stargazers_count": 4992,
+    "stargazers_count": 4994,
     "open_issues_count": 0,
     "forks_count": 245
   },
   {
     "full_name": "charmbracelet/glow",
-    "stargazers_count": 8840,
-    "open_issues_count": 70,
-    "forks_count": 180
+    "stargazers_count": 8904,
+    "open_issues_count": 72,
+    "forks_count": 181
   },
   {
     "full_name": "compumike/hairpin-proxy",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "upptime/upptime",
-    "stargazers_count": 9503,
+    "stargazers_count": 9511,
     "open_issues_count": 50,
-    "forks_count": 517
+    "forks_count": 519
   }
 ]
